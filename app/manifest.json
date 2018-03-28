@@ -20,7 +20,7 @@
         "https://www.netflix.com/watch/*"
       ],
       "js": [
-        "scripts/index.js"
+        "scripts/unclosedcaptions.js"
       ],
       "run_at": "document_end",
       "all_frames": false
