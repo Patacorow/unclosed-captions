@@ -9,7 +9,6 @@
   },
   "default_locale": "en",
   "permissions": [
-    "tabs",
     "http://www.netflix.com/",
     "https://www.netflix.com/"
   ],
