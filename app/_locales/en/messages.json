@@ -4,7 +4,7 @@
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "Removes Closed Captions in Netflix subtitles.",
+    "message": "Removes Closed Captions from Netflix subtitles.",
     "description": "The description of the application"
   }
 }
