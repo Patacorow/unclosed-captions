@@ -10,8 +10,8 @@
   "default_locale": "en",
   "permissions": [
     "tabs",
-    "http://*/*",
-    "https://*/*"
+    "http://www.netflix.com/",
+    "https://www.netflix.com/"
   ],
   "content_scripts": [
     {
@@ -20,7 +20,7 @@
         "https://www.netflix.com/watch/*"
       ],
       "js": [
-        "scripts/contentscript.js"
+        "scripts/index.js"
       ],
       "run_at": "document_end",
       "all_frames": false
